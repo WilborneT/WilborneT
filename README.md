@@ -13,7 +13,7 @@ I'm diligently studying QA testing. Glad to see you in my repository! 🚀
 - Hiking in nature recharges my spirit.
 - Camping under the stars is one of my favorite ways to unwind.
 
-👇 I want to share my projects and skills in web and mobile application testing here
+👇### I want to share my projects and skills in web and mobile application testing here
 ### Tools and Technologies:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
