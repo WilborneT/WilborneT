@@ -1,8 +1,8 @@
-# # Hello, I'm Tatiana! 👋
+#  Hello, I'm Tatiana! 👋
 
 I'm diligently studying QA testing. Glad to see you in my repository! 🚀
 
-## ### Interesting Facts About Me:
+ ### Interesting Facts About Me:
 - I have a deep passion for learning and personal growth, constantly exploring new boundaries.
 - Recently completed a [course](https://rusau.net/) on functional testing.
 - Currently engaged in freelance projects to enhance my practical skills.
