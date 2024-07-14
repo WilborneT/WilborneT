@@ -43,7 +43,7 @@ I'm diligently studying QA testing. Glad to see you in my repository! 🚀
 
 ## Testing Artifacts:
 
-- <a href="https://github.com/Sushkova88/theory/blob/main/README.md](https://github.com/WilborneT/Theory/blob/main/README.md"> Testing Theory </a>
+- <a href="https://github.com/WilborneT/Theory/blob/main/README.md"> Testing Theory </a>
 - <a href="https://github.com/WilborneT/Design/blob/main/README.md"> Design </a>
 - <a href="https://github.com/WilborneT/Test-Documentation/blob/main/README.md"> Test-Documentation </a>
 - <a href="https://github.com/WilborneT/API"> API Testing </a>
