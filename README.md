@@ -5,7 +5,7 @@ I'm diligently studying QA testing. Glad to see you in my repository! 🚀
  ### Interesting Facts About Me:
 - I have a deep passion for learning and personal growth, constantly exploring new boundaries.
 - Recently completed a [course](https://rusau.net/) on functional testing.
--  My <a href="https://drive.google.com/drive/my-drive">CV</a>
+-  My <a href="https://docs.google.com/document/d/1x7ViL3k79flXLmHT6X5p_lw1ttCKr2axWFybfKiE72I/edit">CV</a>
 - Currently engaged in freelance projects to enhance my practical skills.
 - Future plans include expanding into non-functional testing and automation testing.
 
